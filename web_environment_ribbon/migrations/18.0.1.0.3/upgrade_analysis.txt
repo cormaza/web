@@ -1,0 +1,4 @@
+---Models in module 'web_environment_ribbon'---
+---Fields in module 'web_environment_ribbon'---
+---XML records in module 'web_environment_ribbon'---
+---nothing has changed in this module--
